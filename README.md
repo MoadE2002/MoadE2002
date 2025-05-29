@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Moad El Far 👋
 
-<!--
-**MoadE2002/MoadE2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Science Engineer** | 🖥️ Full Stack Developer | ☁️ DevOps & AI Enthusiast  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a Computer Science Engineer with a strong foundation in software development, cloud-native architecture, and AI integration. I specialize in building robust full-stack applications, designing real-time platforms, and leveraging AI to enhance user experiences. Whether it's frontend finesse or backend logic, I bring a balanced approach to every project I work on.
+
+---
+
+
+
+## 🛠️ Tech Stack
+
+**Languages**  
+`Java` `JavaScript` `Python` `C` `PHP`
+
+**Frontend**  
+`React` `Next.js` `Tailwind CSS` `Material UI` `HTML/CSS`
+
+**Backend**  
+`Spring Boot` `Node.js`
+
+**Databases**  
+`PostgreSQL` `MySQL` `MongoDB`
+
+**DevOps & Tools**  
+`Docker` `Kubernetes` `Kafka` `Terraform` `Jenkins` `Git/GitHub`
+
+**AI & ML**  
+`TensorFlow` `CNN` `RNN` `Langchain` `Gen AI` `Pinecone`
+
+**Security & Real-Time**  
+`JWT` `WebRTC` `Socket.IO`
+
+
+
+
+
+---
+
+## 🎓 Certifications
+
+- **Oracle Certified Associate**, Java SE 17 (2024)  
+- **Certified Python Programmer** (2024)
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 [elfarmoad@gmail.com](mailto:elfarmoad@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/moad-el-far-389805293/)  
+
+
+---
+
+_"Engineering software is not just about writing code — it’s about solving problems, building systems, and making an impact."_
