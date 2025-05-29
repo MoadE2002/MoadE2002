@@ -19,10 +19,10 @@ I'm a Computer Science Engineer with a strong foundation in software development
 `Java` `JavaScript` `Python` `C` `PHP`
 
 **Frontend**  
-`React` `Next.js` `Tailwind CSS` `Material UI` `HTML/CSS`
+`React`  `Tailwind CSS` `Material UI` `HTML/CSS`
 
 **Backend**  
-`Spring Boot` `Node.js`
+`Spring Boot`
 
 **Databases**  
 `PostgreSQL` `MySQL` `MongoDB`
@@ -44,8 +44,8 @@ I'm a Computer Science Engineer with a strong foundation in software development
 
 ## 🎓 Certifications
 
-- **Oracle Certified Associate**, Java SE 17 (2024)  
-- **Certified Python Programmer** (2024)
+- **Oracle Certified Associate**, Java SE 17 
+- **Certified Python Programmer** 
 
 ---
 
